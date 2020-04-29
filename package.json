@@ -1,9 +1,10 @@
 {
-  "name": "webpack-lazy",
+  "name": "lazy-loading-old",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "npm run serve",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "serve": "http-server ./dist"
